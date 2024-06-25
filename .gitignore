@@ -17,6 +17,8 @@ guild_data2.json
 /logs/
 /cogs/__pycache__/
 *.json
+.vscode/
+__pychache__/
 
 # Distribution / packaging
 .Python
