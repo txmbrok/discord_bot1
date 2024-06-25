@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# tombrok:
+.env
+discord_system.log
+guild_data.json
+guild_data2.json
+/__pycache__/
+/.venv/
+/.vscode/
+/logs/
+/cogs/__pycache__/
+*.json
+
 # Distribution / packaging
 .Python
 build/
